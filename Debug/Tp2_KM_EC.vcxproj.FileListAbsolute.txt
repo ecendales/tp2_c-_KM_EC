@@ -1,0 +1,2 @@
+C:\Users\Familier\Desktop\C++\Tp2_KM_EC\Debug\Tp2_KM_EC.exe
+C:\Users\Familier\Desktop\C++\Tp2_KM_EC\Debug\Tp2_KM_EC.pdb
